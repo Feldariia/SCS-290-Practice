@@ -1,6 +1,6 @@
 /*
 		 Project Name: Queues
-		 Author: Shannon Mong
+		 Author: 
 		 GitHub: Feldariia
 		 Description: Week 10
 		 Last Modified: 25Oct2020
