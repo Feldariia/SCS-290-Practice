@@ -1,6 +1,5 @@
 /*
 		 Project Name: LinkedList
-		 Author: Shannon Mong
 		 GitHub: Feldariia
 		 Description: Week 10
 		 Last Modified: 25Oct2020
@@ -29,17 +28,17 @@ public class linkedList {
 	
 	//Add the teacher to the first position
 	System.out.println("Adding the teacher to the first position of the roster");
-	list.addFirst("BRAD THE MAN, THE MYTH, THE LEGEND");
+	list.addFirst("Brad");
 
 	//Add a student to the end position
 	System.out.println("Why are you late? What is your name?");	
-	System.out.println("I guess I can just scribble your name down at the end of the roster");
+	input.hasNext();
 	list.addLast(input);
 	
 	
 	
-	
-	public static roster {
+	input.close();
+	Object roster {
 	
 	//Welcome the class and print out the list
 	System.out.println("Welcome to the class! Here are your new classmates for this semester!: ");
