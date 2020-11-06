@@ -36,6 +36,7 @@ public class stack {
 				case '1':
 					System.out.print("How big would you like the new list?: ");
 					input.nextInt();
+					stack.push();
 					break;
 				case '2':
 					System.out.print("How many items would you like to remove within the inventory list? ");
