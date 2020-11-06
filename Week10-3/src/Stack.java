@@ -1,6 +1,5 @@
 /*
 		 Project Name: Stack for Week 10
-		 Author: Shannon Mong
 		 GitHub: Feldariia
 		 Description: Week10-3
 		 Last Modified: 30Oct2020
