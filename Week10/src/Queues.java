@@ -1,6 +1,5 @@
  /*
 		 Project Name: Queues
-		 Author: Shannon Mong
 		 GitHub: Feldariia
 		 Description: Week 10
 		 Last Modified: 25Oct2020
@@ -23,7 +22,7 @@ public class Queues {
 		pq.add(char1); 
 		Characters char2 = new Characters("Asreil", 6.6); 
 		pq.add(char2);          
-		Characters char3 = new Characters("Feldaria", 1.0); 
+		Characters char3 = new Characters("Esa", 1.0); 
 		pq.add(char3); 
 		Characters char4 = new Characters("Tonak", 4.0); 
 		pq.add(char4); 
